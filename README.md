@@ -1,2 +1,2 @@
-# -Wine-Reviews-SpaCy-BERT-
+# -Wine-Reviews-with SpaCy and BERT-
 NLP
